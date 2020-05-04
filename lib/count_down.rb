@@ -1,8 +1,9 @@
 # Write your code here
-happy_new_year=0  
+
 count=10
-while happy_new_year < 10 do 
+while count > 0 do 
   puts "#{count}"
-  happy_new_year = happy_new_year - 1
-  
+  count = count - 1
+  if count == 0
+    puts "Happy New Year!"
 end  
