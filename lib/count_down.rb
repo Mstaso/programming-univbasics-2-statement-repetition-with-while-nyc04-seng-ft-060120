@@ -1,2 +1,2 @@
 # Write your code here
-while  
+happy_new_year=10  
